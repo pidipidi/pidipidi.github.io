@@ -6,9 +6,18 @@
     <description>Recent content in Publications on Daehyung Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; 2017 Daehyung Park</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multimodal Anomaly Detection for Assistive Robots</title>
+      <link>https://pidipidi.github.io/publication/auro_2017_ad/</link>
+      <pubDate>Thu, 06 Apr 2017 02:12:12 -0400</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/auro_2017_ad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
