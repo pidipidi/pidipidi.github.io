@@ -83,16 +83,6 @@
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://pidipidi.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://pidipidi.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Interleaving Planning and Control for Efficient Haptically-guided Reaching in Unknown Environments</title>
       <link>https://pidipidi.github.io/publication/humanoids_2014_plan/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
@@ -143,6 +133,15 @@
       <pubDate>Thu, 21 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://pidipidi.github.io/publication/patent_2011_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motor control apparatus and motor control method thereof.</title>
+      <link>https://pidipidi.github.io/publication/patent_2011_control/</link>
+      <pubDate>Thu, 20 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/patent_2011_control/</guid>
       <description></description>
     </item>
     
