@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Daehyung Park</title>
+    <title>Publications on Daehyung&#39;s Homepage</title>
     <link>https://pidipidi.github.io/publication/index.xml</link>
-    <description>Recent content in Publications on Daehyung Park</description>
+    <description>Recent content in Publications on Daehyung&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Daehyung Park</copyright>
@@ -13,9 +13,72 @@
     <item>
       <title>Multimodal Anomaly Detection for Assistive Robots</title>
       <link>https://pidipidi.github.io/publication/auro_2017_ad/</link>
-      <pubDate>Thu, 06 Apr 2017 02:12:12 -0400</pubDate>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pidipidi.github.io/publication/auro_2017_ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Execution Monitoring for Robot-Assisted Feeding</title>
+      <link>https://pidipidi.github.io/publication/iros_2017_ai/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/iros_2017_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Execution Monitoring for Robot-Assisted Feeding</title>
+      <link>https://pidipidi.github.io/publication/techsage_2017_feeding/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/techsage_2017_feeding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboration Between a Robotic Bed and a Mobile Manipulator May Improve Physical Assistance for People with Disabilities</title>
+      <link>https://pidipidi.github.io/publication/romanws_2016_system/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/romanws_2016_system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation</title>
+      <link>https://pidipidi.github.io/publication/icra_2016_ad/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/icra_2016_ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Assistive Feeding with a General-Purpose Mobile Manipulator</title>
+      <link>https://pidipidi.github.io/publication/icraws_2016_feeding/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/icraws_2016_feeding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Tactile Sensing and Vision for Rapid Haptic Mapping</title>
+      <link>https://pidipidi.github.io/publication/iros_2015_mapping/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/iros_2015_mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-Centric Selection of Robot and Environment Initial Configurations to Perform Assistive Tasks</title>
+      <link>https://pidipidi.github.io/publication/iros_2015_base/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/iros_2015_base/</guid>
       <description></description>
     </item>
     
@@ -30,13 +93,57 @@
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://pidipidi.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Interleaving Planning and Control for Efficient Haptically-guided Reaching in Unknown Environments</title>
+      <link>https://pidipidi.github.io/publication/humanoids_2014_plan/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://pidipidi.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://pidipidi.github.io/publication/humanoids_2014_plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robotic System for Reaching in Dense Clutter that Integrates Model Predictive Control, Learning, Haptic Mapping, and Planning</title>
+      <link>https://pidipidi.github.io/publication/irosws_2014_plan/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/irosws_2014_plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter</title>
+      <link>https://pidipidi.github.io/publication/iros_2014_lic/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/iros_2014_lic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>모터 제어장치 및 모터 제어 방법(MOTOR CONTROL APPARATUS AND CONTROL METHOD THE SAME)</title>
+      <link>https://pidipidi.github.io/publication/patent_kr_2011_control/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/patent_kr_2011_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>여유자유도 제어를 이용한 로봇의 교시 및 재현 방법 (TEACHING AND PLAYBACK METHOD USING REDUNDANCY RESOLUTION CONTROL FOR MANIPULATOR)</title>
+      <link>https://pidipidi.github.io/publication/patent_kr_2011_teaching/</link>
+      <pubDate>Fri, 22 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/patent_kr_2011_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching and playback method based on control of redundancy resolution for robot and computer-readable medium controlling the same.</title>
+      <link>https://pidipidi.github.io/publication/patent_2011_teaching/</link>
+      <pubDate>Thu, 21 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/patent_2011_teaching/</guid>
+      <description></description>
     </item>
     
   </channel>

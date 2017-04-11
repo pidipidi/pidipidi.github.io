@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Daehyung&#39;s Homepage</title>
+    <link>https://pidipidi.github.io/publication_types/7/index.xml</link>
+    <description>Recent content in 7 on Daehyung&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Daehyung Park</copyright>
+    <atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>모터 제어장치 및 모터 제어 방법(MOTOR CONTROL APPARATUS AND CONTROL METHOD THE SAME)</title>
+      <link>https://pidipidi.github.io/publication/patent_kr_2011_control/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/patent_kr_2011_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>여유자유도 제어를 이용한 로봇의 교시 및 재현 방법 (TEACHING AND PLAYBACK METHOD USING REDUNDANCY RESOLUTION CONTROL FOR MANIPULATOR)</title>
+      <link>https://pidipidi.github.io/publication/patent_kr_2011_teaching/</link>
+      <pubDate>Fri, 22 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/patent_kr_2011_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching and playback method based on control of redundancy resolution for robot and computer-readable medium controlling the same.</title>
+      <link>https://pidipidi.github.io/publication/patent_2011_teaching/</link>
+      <pubDate>Thu, 21 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/patent_2011_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motor control apparatus and motor control method thereof.</title>
+      <link>https://pidipidi.github.io/publication/patent_2011_control/</link>
+      <pubDate>Thu, 20 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/patent_2011_control/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

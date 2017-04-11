@@ -1,22 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Daehyung Park</title>
+    <title>1 on Daehyung&#39;s Homepage</title>
     <link>https://pidipidi.github.io/publication_types/1/index.xml</link>
-    <description>Recent content in 1 on Daehyung Park</description>
+    <description>Recent content in 1 on Daehyung&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Daehyung Park</copyright>
     <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://pidipidi.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Multimodal Execution Monitoring for Robot-Assisted Feeding</title>
+      <link>https://pidipidi.github.io/publication/iros_2017_ai/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://pidipidi.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://pidipidi.github.io/publication/iros_2017_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation</title>
+      <link>https://pidipidi.github.io/publication/icra_2016_ad/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/icra_2016_ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Tactile Sensing and Vision for Rapid Haptic Mapping</title>
+      <link>https://pidipidi.github.io/publication/iros_2015_mapping/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/iros_2015_mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-Centric Selection of Robot and Environment Initial Configurations to Perform Assistive Tasks</title>
+      <link>https://pidipidi.github.io/publication/iros_2015_base/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/iros_2015_base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interleaving Planning and Control for Efficient Haptically-guided Reaching in Unknown Environments</title>
+      <link>https://pidipidi.github.io/publication/humanoids_2014_plan/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/humanoids_2014_plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter</title>
+      <link>https://pidipidi.github.io/publication/iros_2014_lic/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/iros_2014_lic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biologically-inspired dynamical systems for movement generation: Automatic real-time goal adaptation and obstacle avoidance</title>
+      <link>https://pidipidi.github.io/publication/icra_2009_dmp/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/icra_2009_dmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement reproduction and obstacle avoidance with dynamic movement primitives and potential fields</title>
+      <link>https://pidipidi.github.io/publication/humanoids_2008_avoid/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/humanoids_2008_avoid/</guid>
+      <description></description>
     </item>
     
   </channel>

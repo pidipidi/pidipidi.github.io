@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Daehyung&#39;s Homepage</title>
+    <link>https://pidipidi.github.io/publication_types/4/index.xml</link>
+    <description>Recent content in 4 on Daehyung&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Daehyung Park</copyright>
+    <atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multimodal Execution Monitoring for Robot-Assisted Feeding</title>
+      <link>https://pidipidi.github.io/publication/techsage_2017_feeding/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/techsage_2017_feeding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboration Between a Robotic Bed and a Mobile Manipulator May Improve Physical Assistance for People with Disabilities</title>
+      <link>https://pidipidi.github.io/publication/romanws_2016_system/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/romanws_2016_system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Assistive Feeding with a General-Purpose Mobile Manipulator</title>
+      <link>https://pidipidi.github.io/publication/icraws_2016_feeding/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/icraws_2016_feeding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robotic System for Reaching in Dense Clutter that Integrates Model Predictive Control, Learning, Haptic Mapping, and Planning</title>
+      <link>https://pidipidi.github.io/publication/irosws_2014_plan/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/irosws_2014_plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining dynamic movement primitives and potential fields for online obstacle avoidance</title>
+      <link>https://pidipidi.github.io/publication/amam_2008_avoid/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/amam_2008_avoid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
