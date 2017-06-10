@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamic Movement Primitives on Daehyung&#39;s Homepage</title>
+    <link>https://pidipidi.github.io/tags/dynamic-movement-primitives/index.xml</link>
+    <description>Recent content in Dynamic Movement Primitives on Daehyung&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Daehyung Park</copyright>
+    <atom:link href="/tags/dynamic-movement-primitives/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dynamic Obstacle Avoidnace</title>
+      <link>https://pidipidi.github.io/project/dmp/</link>
+      <pubDate>Thu, 20 Apr 2017 22:46:22 -0400</pubDate>
+      
+      <guid>https://pidipidi.github.io/project/dmp/</guid>
+      <description>&lt;p&gt;Robots in a human environment need to be compliant. This compliance requires that a pre-planed movement can be adapted to an obstacle that may be moving or appearing unexpectedly. Here, we present a general framework for movement generation and mid-flight adaptation to obstacles. For robust motion generation, Ijspeert et al developed the dynamic movement primitives, which represent a demonstrated movement with a differential equation. This equation allows adding a perturbing force without sacrificing stability. We extend this framework such that arbitrary movements in end-effector space can be represented - which was not possible before. Furthermore, we include obstacle avoidance by adding to the equation of motion a repellent force - a gradient of a potential field centered around the obstacle. In addition, this article studies the effect of different potential fields and shows how to avoid obstacle-link collisions within this framework. We demonstrate the abilities of our framework in simulations and with an anthropoid robot arm.&lt;/p&gt;
+
+&lt;p&gt;Supervised Learning (Dynamic Movement Primitives)
+Obstacle Avoidance by Potential Field Approach
+7-DoF Redudant Manipulator
+Null-Space Elbow Avoidance&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
+    
+      <loc>https://pidipidi.github.io/project/dmp/</loc>
+      <lastmod>2017-04-20T22:46:22-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://pidipidi.github.io/project/samsung/</loc>
+      <lastmod>2017-04-19T23:52:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://pidipidi.github.io/project/haptic-manipulation/</loc>
+      <lastmod>2017-04-19T23:19:50-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://pidipidi.github.io/project/execution_monitor/</loc>
+      <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://pidipidi.github.io/project/assistive_feeding/</loc>
+      <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://pidipidi.github.io/publication/iros_2017_collaboration/</loc>
+      <lastmod>2017-04-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://pidipidi.github.io/publication/auro_2017_ad/</loc>
       <lastmod>2017-04-06T00:00:00+00:00</lastmod>
     </url>
@@ -12,6 +67,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/iros_2017_ai/</loc>
       <lastmod>2017-04-06T00:00:00+00:00</lastmod>
     </url>
@@ -20,6 +76,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/techsage_2017_feeding/</loc>
       <lastmod>2017-03-29T00:00:00+00:00</lastmod>
     </url>
@@ -28,6 +85,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -36,14 +94,7 @@
     
     
     <url>
-      <loc>https://pidipidi.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
     
-  
-    
-    
-    <url>
       <loc>https://pidipidi.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -52,6 +103,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -60,6 +112,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -68,6 +121,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/romanws_2016_system/</loc>
       <lastmod>2016-08-27T00:00:00+00:00</lastmod>
     </url>
@@ -76,6 +130,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/icra_2016_ad/</loc>
       <lastmod>2016-05-01T00:00:00+00:00</lastmod>
     </url>
@@ -84,6 +139,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/icraws_2016_feeding/</loc>
       <lastmod>2016-05-01T00:00:00+00:00</lastmod>
     </url>
@@ -92,54 +148,7 @@
     
     
     <url>
-      <loc>https://pidipidi.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
     
-  
-    
-    
-    <url>
-      <loc>https://pidipidi.github.io/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://pidipidi.github.io/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://pidipidi.github.io/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://pidipidi.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://pidipidi.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>https://pidipidi.github.io/publication/iros_2015_mapping/</loc>
       <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -148,6 +157,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/iros_2015_base/</loc>
       <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -156,6 +166,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/humanoids_2014_plan/</loc>
       <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -164,6 +175,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/irosws_2014_plan/</loc>
       <lastmod>2014-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -172,6 +184,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/iros_2014_lic/</loc>
       <lastmod>2014-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -180,14 +193,7 @@
     
     
     <url>
-      <loc>https://pidipidi.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    </url>
     
-  
-    
-    
-    <url>
       <loc>https://pidipidi.github.io/publication/patent_kr_2011_control/</loc>
       <lastmod>2011-08-02T00:00:00+00:00</lastmod>
     </url>
@@ -196,6 +202,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/patent_kr_2011_teaching/</loc>
       <lastmod>2011-04-22T00:00:00+00:00</lastmod>
     </url>
@@ -204,6 +211,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/patent_2011_teaching/</loc>
       <lastmod>2011-04-21T00:00:00+00:00</lastmod>
     </url>
@@ -212,6 +220,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/patent_2011_control/</loc>
       <lastmod>2011-01-20T00:00:00+00:00</lastmod>
     </url>
@@ -220,6 +229,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/icra_2009_dmp/</loc>
       <lastmod>2009-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -228,6 +238,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/amam_2008_avoid/</loc>
       <lastmod>2008-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -236,6 +247,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication/humanoids_2008_avoid/</loc>
       <lastmod>2008-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -244,6 +256,16 @@
     
     
     <url>
+    
+      <loc>https://pidipidi.github.io/talk/irobot_news/</loc>
+      <lastmod>1111-12-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://pidipidi.github.io/publication_types/1/</loc>
       <lastmod>2017-04-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -253,6 +275,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication_types/2/</loc>
       <lastmod>2017-04-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -262,6 +285,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication_types/4/</loc>
       <lastmod>2017-03-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -271,6 +295,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication_types/7/</loc>
       <lastmod>2011-08-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -280,6 +305,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/</loc>
       <lastmod>2017-04-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -289,8 +315,9 @@
     
     
     <url>
-      <loc>https://pidipidi.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    
+      <loc>https://pidipidi.github.io/tags/dynamic-movement-primitives/</loc>
+      <lastmod>2017-04-20T22:46:22-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -298,8 +325,9 @@
     
     
     <url>
-      <loc>https://pidipidi.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    
+      <loc>https://pidipidi.github.io/tags/execution-monitor/</loc>
+      <lastmod>2017-04-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -307,8 +335,9 @@
     
     
     <url>
-      <loc>https://pidipidi.github.io/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+    
+      <loc>https://pidipidi.github.io/tags/haptic-manipulation/</loc>
+      <lastmod>2017-04-19T23:19:50-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -316,8 +345,9 @@
     
     
     <url>
-      <loc>https://pidipidi.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    
+      <loc>https://pidipidi.github.io/tags/industrial-manipulation/</loc>
+      <lastmod>2017-04-19T23:52:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -325,8 +355,9 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-04-20T22:46:22-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -334,6 +365,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
@@ -342,6 +374,7 @@
     
     
     <url>
+    
       <loc>https://pidipidi.github.io/tags/</loc>
       <priority>0</priority>
     </url>

@@ -11,6 +11,15 @@
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An Assistive Robotic System with a Robotic Bed and a Mobile Manipulator</title>
+      <link>https://pidipidi.github.io/publication/iros_2017_collaboration/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pidipidi.github.io/publication/iros_2017_collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multimodal Anomaly Detection for Assistive Robots</title>
       <link>https://pidipidi.github.io/publication/auro_2017_ad/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 21 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://pidipidi.github.io/publication/patent_2011_teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motor control apparatus and motor control method thereof.</title>
-      <link>https://pidipidi.github.io/publication/patent_2011_control/</link>
-      <pubDate>Thu, 20 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://pidipidi.github.io/publication/patent_2011_control/</guid>
       <description></description>
     </item>
     
