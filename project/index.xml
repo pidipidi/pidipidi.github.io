@@ -40,34 +40,27 @@ Null-Space Elbow Avoidance&lt;/p&gt;
       <pubDate>Wed, 19 Apr 2017 23:19:50 -0400</pubDate>
       
       <guid>https://pidipidi.github.io/project/haptic-manipulation/</guid>
-      <description>&lt;p&gt;We consider the problem of enabling a robot
-to efficiently obtain a dense haptic map of its visible sur-
-roundings using the complementary properties of vision and
-tactile sensing. Our approach assumes that visible surfaces that
-look similar to one another are likely to have similar haptic
-properties. We present an iterative algorithm that enables a
-robot to infer dense haptic labels across visible surfaces when
-given a color-plus-depth (RGB-D) image along with a sequence
-of sparse haptic labels representative of what could be obtained
-via tactile sensing. Our method uses a color-based similarity
-measure and connected components on color and depth data.
-We evaluated our method using several publicly available RGB-
-D image datasets with indoor cluttered scenes pertinent to robot
-manipulation. We analyzed the effects of algorithm parameters
-and environment variation, specifically the level of clutter and
-the type of setting, like a shelf, table top, or sink area. In
-these trials, the visible surface for each object consisted of an
-average of 8602 pixels, and we provided the algorithm with
-a sequence of haptically-labeled pixels up to a maximum of
-40 times the number of objects in the image. On average, our
-algorithm correctly assigned haptic labels to 76.02% of all of the
-object pixels in the image given this full sequence of labels. We
-also performed experiments with the humanoid robot DARCI
-reaching in a cluttered foliage environment while using our
-algorithm to create a haptic map. Doing so enabled the robot
-to reach goal locations using a single plan after a single greedy
-reach, while our previous tactile-only mapping method required
-5 or more plans to reach each goal.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/ic_M-NldXec&#34; allowfullscreen frameborder=&#34;0&#34; display=&#34;block&#34; margin=&#34;0 auto&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/WHHv3womkYs&#34; allowfullscreen frameborder=&#34;0&#34; display=&#34;block&#34; margin=&#34;0 auto&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/Gjy-MDEbZUU&#34; allowfullscreen frameborder=&#34;0&#34; display=&#34;block&#34; margin=&#34;0 auto&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;We consider the problem of enabling a robot to efficiently obtain a dense haptic map of its visible surroundings using the complementary properties of vision and tactile sensing. Our approach assumes that visible surfaces that look similar to one another are likely to have similar haptic properties. We present an iterative algorithm that enables a robot to infer dense haptic labels across visible surfaces when given a color-plus-depth (RGB-D) image along with a sequence of sparse haptic labels representative of what could be obtained via tactile sensing. Our method uses a color-based similarity measure and connected components on color and depth data. We evaluated our method using several publicly available RGB-D image datasets with indoor cluttered scenes pertinent to robot manipulation. We analyzed the effects of algorithm parameters and environment variation, specifically the level of clutter and the type of setting, like a shelf, table top, or sink area. In these trials, the visible surface for each object consisted of an average of 8602 pixels, and we provided the algorithm with a sequence of haptically-labeled pixels up to a maximum of 40 times the number of objects in the image. On average, our algorithm correctly assigned haptic labels to 76.02% of all of the
+object pixels in the image given this full sequence of labels. We also performed experiments with the humanoid robot DARCI reaching in a cluttered foliage environment while using our algorithm to create a haptic map. Doing so enabled the robot to reach goal locations using a single plan after a single greedy reach, while our previous tactile-only mapping method required 5 or more plans to reach each goal.&lt;/p&gt;
 </description>
     </item>
     
@@ -78,7 +71,7 @@ reach, while our previous tactile-only mapping method required
       
       <guid>https://pidipidi.github.io/project/execution_monitor/</guid>
       <description>&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/gLcPZQnDmkk&#34; allowfullscreen frameborder=&#34;0&#34; display=&#34;block&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/gLcPZQnDmkk&#34; allowfullscreen frameborder=&#34;0&#34; display=&#34;block&#34; margin=&#34;0 auto&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 

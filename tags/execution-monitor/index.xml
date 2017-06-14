@@ -16,7 +16,7 @@
       
       <guid>https://pidipidi.github.io/project/execution_monitor/</guid>
       <description>&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/gLcPZQnDmkk&#34; allowfullscreen frameborder=&#34;0&#34; display=&#34;block&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/gLcPZQnDmkk&#34; allowfullscreen frameborder=&#34;0&#34; display=&#34;block&#34; margin=&#34;0 auto&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 
